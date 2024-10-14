@@ -1,0 +1,46 @@
+{
+	"members": [
+		{
+			"id": 1,
+			"name": "Raksha Singhania",
+			"gender": "",
+			"country": "india",
+			"city": "Raipur",
+			"phone": "08962031536",
+			"occupation": "",
+			"pid1": 0,
+			"pid2": 0,
+			"pid3": 0,
+			"pid4": 0,
+			"mid": 0,
+			"fid": 0,
+			"address": "D102, Swarnabhomi, Vidhan Sabha road, ama seoni",
+			"deathDate": "",
+			"birthDate": "",
+			"notes": null,
+			"email": "raksha.raksha@gmail.com",
+			"imgPath": ""
+		},
+		{
+			"id": 2,
+			"name": "Bikash Singhal",
+			"gender": "",
+			"country": "india",
+			"city": "",
+			"phone": "",
+			"occupation": "",
+			"pid1": 0,
+			"pid2": 0,
+			"pid3": 0,
+			"pid4": 0,
+			"mid": 0,
+			"fid": 0,
+			"address": "",
+			"deathDate": "",
+			"birthDate": "",
+			"notes": null,
+			"email": "",
+			"imgPath": ""
+		}
+	]
+}

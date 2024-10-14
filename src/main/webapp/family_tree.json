@@ -1,0 +1,22 @@
+{
+		"members": [
+			{
+				"id": 1,
+				"name": "Raksha Singhania",
+				"gender": "FEMALE",
+				"country": "india",
+				"city": "Raipur",
+				"phone": "08962031536",
+				"occupation": "",
+				"pids": [],
+				"mid": 0,
+				"fid": 0,
+				"address": "D102, Swarnabhomi, Vidhan Sabha road, ama seoni",
+				"deathDate": "",
+				"birthDate": "",
+				"notes": null,
+				"email": "raksha.raksha@gmail.com",
+				"imgPath": ""
+			}
+		]
+}
